@@ -2,7 +2,7 @@
 
 A hands-on networking project built on AWS EC2 to understand how load balancing, traffic filtering, and rate limiting actually work at the infrastructure level — not just how to configure them, but why each piece sits where it does.
 
-![Architecture Diagram](Network_Project/network_workflow.svg)
+![Architecture Diagram](network_workflow.svg)
 
 ## Architecture
 
